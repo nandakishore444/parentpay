@@ -1,0 +1,16 @@
+com\school\dao\impl\LoginDAOImpl.class
+com\school\service\impl\LoginServiceImpl.class
+com\school\service\MainService.class
+com\school\service\LoginService.class
+com\school\dao\LoginDAO.class
+com\school\service\impl\MainServiceImpl.class
+com\school\db\User.class
+com\school\value\MainVO.class
+com\school\db\Roles.class
+com\school\value\ValueObject.class
+com\school\dao\MainDAO.class
+com\school\value\LoginVO.class
+com\school\controller\LoginController.class
+com\school\dao\impl\MainDAOImpl.class
+com\school\controller\MainController.class
+com\school\db\School.class
